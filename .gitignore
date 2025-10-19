@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+
+# Builds / artefatos
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# PyInstaller / especs
+*.spec
+
+# Caches diversos
+_refine_cache/
+.cache/
+.ipynb_checkpoints/
+
+# SO/IDE
+.DS_Store
+Thumbs.db
+.vscode/
